@@ -30,25 +30,65 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+User Submission:
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+A user encounters an issue or has a request and submits a ticket through the osTicket client portal.
+The submission form typically includes fields for the user’s email address, a help topic (such as Technical Support, Billing, etc.), a subject line, and a detailed message describing the issue.
+Users can also attach relevant files or screenshots to provide more context.
+</p>
+<br /
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Assignment and Ownership
+After classification, the ticket is assigned to an appropriate agent or team.
+
+Agent Assignment:
+
+Tickets can be manually or automatically assigned to a specific agent or department based on expertise or workload.
+Agents receive a notification of the new ticket assignment.
+Ticket Ownership:
+
+The assigned agent takes ownership of the ticket, becoming responsible for managing its progress through resolution.
 </p>
 <br />
+ Investigation and Response
+The agent investigates the issue and interacts with the user to resolve the ticket.
+
+Initial Response:
+
+The agent reviews the ticket details and sends an initial response to the user, acknowledging receipt and potentially asking for more information.
+The agent may use canned responses for common issues to streamline communication.
+Investigation:
+
+The agent investigates the issue, which may involve replicating the problem, consulting documentation, or collaborating with other team members.
+Internal notes can be added to the ticket for reference by other agents without being visible to the user.
+User Interaction:
+
+The agent communicates with the user through the ticketing system, providing updates, asking questions, and offering solutions.
+All correspondence is tracked within the ticket for transparency and record-keeping.
+</p>
+<p>
+ Resolution
+Once the issue is resolved, the ticket moves toward closure.
+
+Resolution:
+
+The agent provides a final solution or workaround to the user.
+The solution is documented within the ticket, ensuring that it is available for future reference if similar issues arise.
+Confirmation:
+
+The user is informed that the issue is resolved. Depending on the organization’s policy, the ticket might be left open for a short period to allow the user to confirm the resolution.
+The user can reopen the ticket if they are not satisfied with the resolution or if the problem persists.
+</p>
+<br />
+ Closure
+The final stage of the ticket lifecycle is closure.
+
+Close the Ticket:
+
+If the issue is resolved and the user has no further questions, the agent closes the ticket.
+A closed ticket is archived but can still be accessed by both the user and agents for future reference.
+Post-Ticket Review.
